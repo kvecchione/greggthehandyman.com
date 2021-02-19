@@ -1,0 +1,54 @@
+baseURL = "https://www.greggthehandyman.com"
+languageCode = "en-us"
+title = "Gregg's Handyman Service"
+theme = "infinity-hugo"
+removePathAccents = true
+
+# HTML before the closing </head>
+[params]
+customHead = ""
+
+# Navigation
+[params.navigation]
+logo = "images/logo1.png"
+home = "Home"
+
+# Hero Area
+[params.hero]
+enable            = true
+bg                = "images/header-bg2.jpg"
+title             = "Gregg's Handyman Service"
+subtitle          = "Ready to help with your next project!"
+btnText           = "Services"
+
+# counter
+disableCountdown  = true
+
+[[menu.main]]
+name = "Services"
+URL = "services"
+weight = 2
+
+# [[menu.main]]
+# name = "Contact"
+# URL = "contact"
+# weight = 3
+
+[[menu.main]]
+name = "Testimonials"
+URL = "testimonials"
+weight = 4
+
+[[menu.main]]
+name = "Request Service"
+URL = "request-service"
+weight = 5
+
+# About Section
+[params.about]
+enable      = true
+heading     = "Gregg’s Handyman Service offers assistance to the Indian Land, SC community with small to medium-sized projects. See the services page for more information about what services I can provide or feel free to contact me for more information."
+description = "With my services you can be assured it gets done right the first time!"
+
+[[params.about.sliderItem]]
+image   = "images/about/tools.jpg"

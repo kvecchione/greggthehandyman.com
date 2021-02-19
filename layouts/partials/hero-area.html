@@ -1,0 +1,23 @@
+{{ if .Site.Params.hero.enable }}
+    {{"<!-- Hero Area Section -->" | safeHTML}}
+    <section id="{{ i18n `home` | urlize }}" class="hero-area" style='background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("{{ with .Site.Params.hero.bg }} {{ . }}{{ end }}");'>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-6">
+                    <div class="block">
+                        {{ with .Site.Params.hero.title }}
+                        <h1>
+                            {{ . }}
+                        </h1>
+                        {{ end }}
+                        {{ with .Site.Params.hero.subtitle }}
+                        <p>
+                            {{ . }}
+                        </p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{{ end }}
