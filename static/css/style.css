@@ -644,11 +644,18 @@ header {
   padding-right: 10px;
 }
 
+.content p {
+  font-size: 18px;
+}
+
 .content ul {
   list-style: outside;
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+  -moz-column-width: 200px;
+  column-width: 200px;
+  -webkit-column-width: 200px;
   margin-left: 40px;
 }
 

@@ -17,6 +17,7 @@ markup: blackfriday
 * Garage Storage
 * Attic Stairs
 * Shelving
+* Laundry Room Cabinets
 * And More!
 
 <br>
