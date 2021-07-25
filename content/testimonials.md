@@ -5,6 +5,18 @@ markup: blackfriday
 
 <br>
 ___
+Highly recommend Gregg and his work. He recently installed SafeRack Garage Storage for us and as always did a great job. 
+
+*-Charles Q.*
+___
+Gregg came over and quickly diagnosed and repaired the lock on our storm door. He also repaired a couple of other issues we had. He is knowledgeable and a personable guy. Very reasonable with his charges. So, if you need repairs to your home call Gregg.
+
+*-Jeffrey S.*
+___
+We had Gregg install grab bars for the shower and the bathroom. I was impressed with him cleaning up after his work was done. He is very knowledgeable and just a nice guy. Thank you. We won't hesitate to use him again. 
+
+*-Susan R.*
+___
 Remember Gregg Vecchione’s name. He’s a great handyman and a really good human being.
 
 *-Kathleen S.*
