@@ -1,6 +1,5 @@
 ---
 title: "Services"
-markup: blackfriday
 ---
 
 * Light Fixtures

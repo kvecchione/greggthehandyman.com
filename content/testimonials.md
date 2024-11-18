@@ -1,6 +1,5 @@
 ---
 title: "Testimonials"
-markup: blackfriday
 ---
 
 <br>
